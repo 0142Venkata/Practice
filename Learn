@@ -4,7 +4,7 @@
     "unique_id": "BS_1_A_1_1",
     "phase": 1,
     "block": "A",
-    "floor": A,
+    "floor": 1,
     "sno": 1,
     "apartment_id": 1,
     "apartment_type": "3+1",
